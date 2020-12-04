@@ -1,0 +1,13 @@
+{
+  "name": "@maxjeffos/npm-package-in-gh",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "npm-package-in-gh": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
